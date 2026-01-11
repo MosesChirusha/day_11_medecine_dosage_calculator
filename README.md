@@ -21,6 +21,9 @@ A simple browser-based dosage calculator that:
 - Works fully offline
 - Emphasizes medical safety and professional confirmation
 
+Try it: [Demo](https://moseschirusha.github.io/day_11_medecine_dosage_calculator)
+Medium Article: [Read here](https://moseschirusha.medium.com/a-simple-calculator-can-prevent-a-dangerous-medicine-mistake-15f70e934f76)
+
 ---
 
 ## Medical Disclaimer
